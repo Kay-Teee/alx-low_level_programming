@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
- * main - entry pont 
+ * main - entry pont
  *
  * Return: 1 (Sucess)
  */
